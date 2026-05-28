@@ -19,8 +19,6 @@ I enjoy building scalable full-stack applications, authentication systems, AI-po
 * 📦 Published npm packages with growing adoption
 * 🔐 Built production-ready authentication systems
 * ⚡ Developed scalable MERN applications with real-time systems
-* 🤖 Integrated AI features using Gemini API
-* 🌍 Active Open Source Contributor
 
 ---
 
