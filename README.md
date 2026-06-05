@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vinay Kumar
 
-### Full Stack Developer | Open Source Contributor | DSA | GenAI Enthusiast
+### Full Stack Developer | Open Source Contributor (GSSoC) | DSA | GenAI Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codes4vinay\&color=blueviolet\&style=for-the-badge)
 
