@@ -352,7 +352,7 @@
 I'm always open to collaborating on interesting projects, discussing tech, or contributing to open source!
 
 * 🌐 **Portfolio:** [vinaydev.in](https://vinaydev.in)
-* 📧 **Email:** [vinay@vinaydev.in](mailto:vinay@vinaydev.in)
+* 📧 **Email:** [vinay@vinaydev.in](mailto:vinay@vinaydev.in) OR  [vinaykumar.2k04@gmail.com](mailto:vinaykumar.2k04@gmail.com)
 * 💬 **Ask me about:** MERN Stack, Backend Development, Authentication Systems, and DSA
 
 ---
