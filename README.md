@@ -26,7 +26,7 @@
 * ⚡ **Open Source Contributor** participating in **GSSoC'26**
 * ⚡ Building authentication systems, AI-powered applications, and developer tools
 * ⚡ Exploring backend architecture, DevOps, and cloud technologies
-* ⚡ **DSA Enthusiast** — Solved 280+ problems across coding platforms
+* ⚡ **DSA Enthusiast** — Solved 450+ problems across coding platforms
 * ⚡ Based in **Haryana, India**
 
 ---
