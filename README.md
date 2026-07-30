@@ -319,7 +319,7 @@
 
 ## 🏆 Achievements
 
-* ✅ Solved **280+ Problems** across coding platforms
+* ✅ Solved **450+ Problems** across coding platforms
 * ⭐ Achieved **2-Star Rating** on CodeChef
 * 📦 Published Open Source npm packages
 * 🏆 Secured **3rd Position** at Hack the Hills Hackathon 2025
