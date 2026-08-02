@@ -2,346 +2,181 @@
 
 # 👋 Hi, I'm Vinay Kumar
 
-### Full Stack Developer | Open Source Contributor (GSSoC) | DSA | GenAI 
+### Full Stack Developer | Open Source Contributor (GSSoC) | DSA | GenAI
 
-![Profile Views](https://komarev.com/ghpvc/?username=codes4vinay\&color=blueviolet\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=codes4vinay&color=blueviolet&style=for-the-badge)
 
-# 🌐 Socials:
+### 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)](https://vinaydev.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vinaykumar2004)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/codes4vinay)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/vinay.kumar.ig)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@vinayislive)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vinay@vinaydev.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vinaydev.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinaykumar2004)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codes4vinay)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinay.kumar.ig)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vinayislive)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinay@vinaydev.in)
+
+</div>
+
+<br>
+
+<!-- ================= HEATMAP / STREAK ================= -->
+<div align="center">
+
+### 🔥 Contribution Heatmap
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codes4vinay&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codes4vinay&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="48%"/>
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-* ⚡ **B.Tech in Electronics and Communication Engineering** at **IIIT Una**
-* ⚡ **Full Stack Developer** focused on scalable MERN applications
-* ⚡ **Open Source Contributor** participating in **GSSoC'26**
-* ⚡ Building authentication systems, AI-powered applications, and developer tools
-* ⚡ Exploring backend architecture, DevOps, and cloud technologies
-* ⚡ **DSA Enthusiast** — Solved 450+ problems across coding platforms
-* ⚡ Based in **Haryana, India**
-
----
-
-## 💻 Tech Stack
-
-🔤 Languages
-
-<table> 
-<tr> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" /> 
-<br>Java 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" /> 
-<br>JavaScript 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" /> 
-<br>TypeScript 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" /> 
-<br>Python 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" /> 
-<br>HTML 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" /> 
-<br>CSS 
-</td> 
-
-</tr> 
-</table>
-
-🎨 Frontend
-
-<table> 
-<tr> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" /> 
-<br>React 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" /> 
-<br>Redux 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" /> 
-<br>Tailwind 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /> 
-<br>Bootstrap 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" /> 
-<br>Vite 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" /> 
-<br>React Native 
-</td> 
-
-</tr> 
-</table>
-
-⚙️ Backend
-
-<table> 
-<tr> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /> 
-<br>Node.js 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" /> 
-<br>Express 
-</td> 
-
-<td align="center" width="96">
-<img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.IO" />
-<br>Socket.IO
-</td>
-
-<td align="center" width="96">
-<img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" />
-<br>JWT
-</td>
-
-</tr> 
-</table>
-
-🗄️ Database & Cloud
-
-<table> 
-<tr> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" /> 
-<br>MongoDB 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /> 
-<br>MySQL 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" /> 
-<br>Postgres 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" /> 
-<br>AWS 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" /> 
-<br>Docker 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" /> 
-<br>Cloudflare 
-</td> 
-
-</tr> 
-</table>
-
-🛠️ Tools & Technologies
-
-<table> 
-<tr> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" /> 
-<br>Git 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" /> 
-<br>GitHub 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" /> 
-<br>Postman 
-</td> 
-
-<td align="center" width="96"> 
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" /> 
-<br>Vercel 
-</td>  
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" /> 
-<br>Nginx
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" /> 
-<br>NPM
-</td>
-
-</tr> 
-</table>
+- ⚡ **B.Tech in Electronics and Communication Engineering** at **IIIT Una**
+- ⚡ **Full Stack Developer** focused on scalable MERN applications
+- ⚡ **Open Source Contributor** participating in **GSSoC'26**
+- ⚡ Building authentication systems, AI-powered applications, and developer tools
+- ⚡ Exploring backend architecture, DevOps, and cloud technologies
+- ⚡ **DSA Enthusiast** — Solved 450+ problems across coding platforms
+- ⚡ Based in **Haryana, India**
 
 ---
 
----
-
-## 📊 GitHub Stats
+## 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://github.com/codes4vinay">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codes4vinay&theme=radical&hide_border=false" alt="GitHub Streak"/>
-  </a>
+  <b>Languages</b><br>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" /><br><br>
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" /><br><br>
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://socket.io/images/logo.svg" width="48" height="48" alt="Socket.IO"/>
+  <img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" alt="JWT"/><br><br>
+  <b>Database & Cloud</b><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,cloudflare" /><br><br>
+  <b>Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,nginx,npm" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/codes4vinay">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codes4vinay&theme=radical" alt="Vinay's GitHub Contribution"/>
-  </a>
-</p> 
-
-<a> 
-    <a href="https://github.com/codes4vinay"><img alt="Vinay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=codes4vinay&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/codes4vinay"><img alt="Vinay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codes4vinay&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
----
 
 ---
 
 ## 🌟 Featured Projects
 
----
-
-<table>
+<table width="100%">
 <tr>
-<td width="75%">
+
+<td width="33%" valign="top" align="center">
+
+### 🌀 Chaos Proxy
+**HTTP Chaos Engineering Proxy**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codes4vinay/chaos-proxy)
+
+<div align="left">
+
+- ⚡ Raw Node.js `http` proxy — no proxy libraries used
+- ⚡ Time-based fault injection (latency & failures) with realistic degradation curve
+- ⚡ Live React dashboard with p50/p95/p99 metrics via Socket.IO
+- ⚡ Runtime control API — edit rules/target with zero restarts
+- ⚡ Auto-safety cutoff disables chaos on threshold breach
+
+</div>
+
+**Stack:** TypeScript · Node.js · React · Socket.IO · Recharts
+
+</td>
+
+<td width="33%" valign="top" align="center">
 
 ### 🔐 Auth7-kit
-
 **Authentication Library for Express.js**
 
-[![NPM](https://img.shields.io/badge/NPM-Package-red?style=for-the-badge\&logo=npm)](https://www.npmjs.com/package/auth7-kit)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/codes4vinay/auth7-kit)
+[![NPM](https://img.shields.io/badge/NPM-Package-red?style=flat-square&logo=npm)](https://www.npmjs.com/package/auth7-kit)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codes4vinay/auth7-kit)
 
-* ⚡ JWT Access & Refresh Token Authentication
-* ⚡ Secure Email Verification & Password Reset
-* ⚡ Session Invalidation Support
-* ⚡ Dynamic MongoDB Schema Support
-* ⚡ Plugin-based Modular Architecture
+<div align="left">
 
-**Tech Stack:** Node.js, Express.js, MongoDB, JWT
+- ⚡ JWT access & refresh token auth
+- ⚡ Secure email verification & password reset
+- ⚡ Session invalidation support
+- ⚡ Dynamic MongoDB schema support
+- ⚡ Plugin-based modular architecture
+
+</div>
+
+**Stack:** Node.js · Express · MongoDB · JWT
 
 </td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td width="75%">
+<td width="33%" valign="top" align="center">
 
 ### 🛠️ Mendly
-
 **Electronics Repair & Marketplace Platform**
 
-* ⚡ Real-time chat using Socket.IO
-* ⚡ Razorpay payment integration
-* ⚡ Role-based access control system
-* ⚡ AI-powered customer assistant
-* ⚡ Optimized backend architecture
-* ⚡ Secure JWT authentication
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/codes4vinay)
 
-**Performance:**
+<div align="left">
 
-* ⚡ Sub-150ms average API latency
-* ☁️ Azure Deployment
-* 📈 99.5% uptime
+- ⚡ Real-time chat via Socket.IO
+- ⚡ Razorpay payment integration
+- ⚡ Role-based access control
+- ⚡ AI-powered customer assistant
+- ⚡ Sub-150ms avg API latency, 99.5% uptime on Azure
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO, Razorpay
+</div>
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.IO
 
 </td>
+
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="75%">
+---
 
-### 🎨 Thumblify
-
+## 🎨 Thumblify
 **AI Thumbnail Generator**
 
-* ⚡ AI-powered thumbnail generation using Gemini API
-* ⚡ Real-time preview functionality
-* ⚡ Responsive modern UI
-* ⚡ Smart layout optimization
-* ⚡ Download support
+- ⚡ AI-powered thumbnail generation using Gemini API
+- ⚡ Real-time preview & smart layout optimization
+- ⚡ Responsive modern UI with download support
 
-**Tech Stack:** React.js, Node.js, MongoDB, TailwindCSS, Gemini API
-
-</td>
-</tr>
-</table>
+**Stack:** React · Node.js · MongoDB · TailwindCSS · Gemini API
 
 ---
 
 ## 🏆 Achievements
 
-* ✅ Solved **450+ Problems** across coding platforms
-* ⭐ Achieved **2-Star Rating** on CodeChef
-* 📦 Published Open Source npm packages
-* 🏆 Secured **3rd Position** at Hack the Hills Hackathon 2025
-* 🌍 Open Source Contributor at GSSoC'26
+- ✅ Solved **550+ problems** across coding platforms
+- ⭐ **2-Star Rating** on CodeChef
+- 📦 Published open-source npm packages
+- 🏆 **3rd Position** — Hack the Hills Hackathon 2025
+- 🌍 Open Source Contributor — GSSoC'26
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-![Vinay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codes4vinay\&theme=react-dark\&hide_border=true\&area=true\&custom_title=Total%20Contribution%20Graph)
+## 📊 GitHub Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codes4vinay&theme=radical" alt="Profile Details" width="60%"/>
+
+<br>
+
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=codes4vinay&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codes4vinay&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
-
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+### 💡 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -351,9 +186,9 @@
 
 I'm always open to collaborating on interesting projects, discussing tech, or contributing to open source!
 
-* 🌐 **Portfolio:** [vinaydev.in](https://vinaydev.in)
-* 📧 **Email:** [vinay@vinaydev.in](mailto:vinay@vinaydev.in) OR  [vinaykumar.2k04@gmail.com](mailto:vinaykumar.2k04@gmail.com)
-* 💬 **Ask me about:** MERN Stack, Backend Development, Authentication Systems, and DSA
+- 🌐 **Portfolio:** [vinaydev.in](https://vinaydev.in)
+- 📧 **Email:** [vinay@vinaydev.in](mailto:vinay@vinaydev.in) or [vinaykumar.2k04@gmail.com](mailto:vinaykumar.2k04@gmail.com)
+- 💬 **Ask me about:** MERN Stack, Backend Development, Authentication Systems, Chaos Engineering, and DSA
 
 ---
 
