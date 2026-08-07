@@ -11,7 +11,7 @@
 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor+%40+GSSoC'26;DSA+Enthusiast+%7C+550%2B+Problems+Solved;Building+with+the+MERN+Stack+%2B+GenAI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor+%40+GSSoC'26;DSA+Enthusiast+%7C+550%2B+Problems+Solved;Building+with+the+MERN+Stack+%2B+GenAI" alt="Typing SVG" width="100%" style="max-width:600px;" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codes4vinay&color=39FF14&style=for-the-badge&label=TERMINAL+VISITS)
 
@@ -70,7 +70,7 @@ drwxr-xr-x  cloud-devops/ aws  docker  cloudflare  nginx
 drwxr-xr-x  tools/        git  github  postman  vercel  npm
 ```
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,postgres,aws,docker,cloudflare,git,github,postman,vercel,nginx,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,redux,tailwind,bootstrap,vite,nodejs,express,mongodb,mysql,postgres,aws,docker,cloudflare,git,github,postman,vercel,nginx,npm&theme=dark" width="100%" style="max-width:800px;" />
 
 </div>
 
